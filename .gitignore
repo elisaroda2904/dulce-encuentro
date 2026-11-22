@@ -1,0 +1,6 @@
+google-sites/
+PUBLICAR-GOOGLE-SITES.md
+build-google-sites.mjs
+server.mjs
+Thumbs.db
+.DS_Store
