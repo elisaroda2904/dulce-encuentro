@@ -16,7 +16,7 @@ window.DULCE_CONFIG = {
   whatsappNumero: "",
 
   // URL pública definitiva de tu sitio (por ejemplo en GitHub Pages o Google Sites) para el Menú QR.
-  urlPublica: "https://elisaroda2904.github.io/dulce-encuentro/",
+  urlPublica: "https://sites.google.com/view/dulce-encuentro-uagrm/dulce-encuentro",
 
   // Enlaces a redes sociales y encuesta de Google Forms.
   redes: {
